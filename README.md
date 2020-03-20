@@ -14,7 +14,7 @@ sudo apt install checkinstall
 ```
 mkdir build
 cd build
-ccmake ..
+cmake ..
 ```
 Then locate the BUILD_surface_on_nurbs flag and set it to ON
 
